@@ -1,3 +1,4 @@
 # AI_programming_course
 
-機器學習、神經網路建構、自然語言處理
+人工智慧程式設計課程紀錄\
+相關主題: ANN、CNN、RNN、遷移式學習、MNIST資料集實作
